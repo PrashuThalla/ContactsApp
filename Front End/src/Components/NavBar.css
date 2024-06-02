@@ -1,0 +1,12 @@
+.active {
+    font-weight: bold;
+    color: #007bff; /* Blue color, you can adjust as needed */
+  }
+  .navbar {
+    background-color: #82baf3; /* Light background color */
+        margin-bottom: 0; /* Remove the margin */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #c61e1e; /* White text color */
+  }
